@@ -2,7 +2,7 @@ package Problemslvl1;
 
 import java.util.Scanner;
 
-public class PasswordBruteForceFinde {
+public class PasswordBruteForceFinder {
 	public static String ReadPassword(String a) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println(a);
